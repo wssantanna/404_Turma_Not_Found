@@ -7,5 +7,6 @@
 | Colaborador | Usuário |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+ | Raylane Ferreira  | @raylaneferreira|
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
