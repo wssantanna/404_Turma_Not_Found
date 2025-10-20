@@ -8,4 +8,6 @@
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
 
+| Luan mascarenhas | @luanmascarenhas26
+
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
