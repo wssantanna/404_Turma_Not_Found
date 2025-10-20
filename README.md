@@ -4,7 +4,7 @@
 
 ## Colaboradores 
 
-| Colaborador | Usuário |
+| Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
  | Raylane Ferreira  | @raylaneferreira|
