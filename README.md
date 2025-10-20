@@ -7,5 +7,6 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Mateus Farias | @mateusfariasff
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
