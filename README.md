@@ -7,5 +7,6 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Nicole Menezes | @nclmenezes |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
