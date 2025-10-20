@@ -7,5 +7,6 @@
 | Colaborador | Usuário |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
+| Renato Cosme | @rshine-amateur |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
