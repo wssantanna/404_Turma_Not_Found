@@ -4,7 +4,7 @@
 
 ## Colaboradores 
 
-| Nome | Usuário do Github |
+| Nome Completo | Usuário do Github |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
 
