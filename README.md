@@ -8,5 +8,6 @@
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
 | David Lucas | @DavidLuccass
+| Ian Luis | @ianzinho23 |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
