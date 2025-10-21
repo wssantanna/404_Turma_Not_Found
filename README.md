@@ -7,6 +7,12 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
- | Raylane Ferreira  | @raylaneferreira|
+| Raylane Ferreira  | @raylaneferreira|
+| Miguel Bispo Viana | @miguel11xp |
+| Rauan Freitas      | @Rauan-7 |
+| Antonio Vitório | @antoniov7 |
+| David Lucas | @DavidLuccass |
+| Ian Luis | @ianzinho23 |
+| Luan mascarenhas | @luanmascarenhas26 |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
