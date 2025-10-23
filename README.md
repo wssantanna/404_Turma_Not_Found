@@ -17,6 +17,7 @@
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
+| Viviane Campos| @vivianejcampos |
 
 ##  Tecnologias utilizadas
 - Git e Github
