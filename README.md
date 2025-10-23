@@ -17,5 +17,6 @@
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
+| Caio Guilherme | @Caioguilherme94  |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
