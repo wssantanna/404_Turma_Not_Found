@@ -18,4 +18,13 @@
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
 
+##  Tecnologias utilizadas
+- Git e Github
+
+
+
+
+
+
+
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
