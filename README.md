@@ -21,6 +21,7 @@
 | Viviane Campos | @vivianejcampos |
 | Jeferson Pereira Oliveira | @jefersonibfe |
 | Raiele Silva | @raielesilva |
+| Nicole Menezes | @nclmenezes |
 
 
 
