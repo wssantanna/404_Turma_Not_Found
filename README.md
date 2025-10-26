@@ -13,7 +13,7 @@
 
 ## Colaboradores 
 <details>
-  <summary>🔹 **Clique para ver os colaboradores!** 🔹</summary>
+  <summary>🔹 Clique para ver os colaboradores! 🔹</summary>
 
 | Nome | @ |
 | --- | --- |
