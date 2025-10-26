@@ -17,15 +17,8 @@
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
+| Caio Guilherme | @Caioguilherme94 |
 | Viviane Campos| @vivianejcampos |
-
-##  Tecnologias utilizadas
-- Git e Github
-
-
-
-
-
 
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
