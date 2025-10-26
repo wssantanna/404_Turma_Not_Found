@@ -17,11 +17,9 @@
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
-| jeferson pereira oliveira| @jefersonibfe |
-
-## TECNOLOGIA QUE USAMOS
- - Git e Github
-
+| Caio Guilherme | @Caioguilherme94 |
+| Viviane Campos | @vivianejcampos |
+| Jeferson Pereira Oliveira | @jefersonibfe |
 
 
 
