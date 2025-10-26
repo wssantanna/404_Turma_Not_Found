@@ -17,6 +17,12 @@
 | Ian Luis | @ianzinho23 |
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
+| Caio Guilherme | @Caioguilherme94 |
+| Viviane Campos | @vivianejcampos |
+| Jeferson Pereira Oliveira | @jefersonibfe |
 | Raiele Silva | @raielesilva |
+
+
+
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
