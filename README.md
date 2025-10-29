@@ -35,6 +35,7 @@
 | Nicole Menezes | [@nclmenezes](https://github.com/nclmenezes) |
 | Joadson Reis | [@Joadsonreis1](https://github.com/Joadsonreis1) |
 | Kauane Barbosa | [@bkauane](https://github.com/bkauane) |
+| Erick Lima | [@ericklimasdev](https://github.com/ericklimasdev) |
 
 
 ## Tecnologias Utilizadas
