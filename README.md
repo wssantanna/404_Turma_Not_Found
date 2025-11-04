@@ -2,7 +2,7 @@
 
 # 💻 404 Turma Not Found
 
-📚 Repositório de aprendizados e projetos da **Turma 2025 NextCoders**. 
+📚 Repositório de aprendizados e projetos da *Turma 2025 NextCoders*, buscando aprender, por em prática e eventualmente aplicar profissionalmente.
 
 ---
 
