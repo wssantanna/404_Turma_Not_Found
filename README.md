@@ -17,7 +17,7 @@
 
 ## Colaboradores 
 <details>
-  <summary>🔹 Clique para ver os colaboradores! 🔹</summary>
+  <summary><b>🔹 Clique para ver os colaboradores! 🔹</b></summary>
 
 | Nome | @ |
 | --- | --- |
