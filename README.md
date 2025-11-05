@@ -40,6 +40,7 @@
 | Joadson Reis | [@Joadsonreis1](https://github.com/Joadsonreis1) |
 | Kauane Barbosa | [@bkauane](https://github.com/bkauane) |
 | Erick Lima | [@ericklimasdev](https://github.com/ericklimasdev) |
+| Darlene Santos | [@darlenejsantos](https://github.com/darlenejsantos) |
 </details>
 
 ## Tecnologias Utilizadas
