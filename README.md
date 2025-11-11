@@ -41,6 +41,7 @@
 | Kauane Barbosa | [@bkauane](https://github.com/bkauane) |
 | Erick Lima | [@ericklimasdev](https://github.com/ericklimasdev) |
 | Darlene Santos | [@darlenejsantos](https://github.com/darlenejsantos) |
+| João Amorim | [@JoaoAmorim18](https://github.com/JoaoAmorim18) |
 </details>
 
 ## Tecnologias Utilizadas
