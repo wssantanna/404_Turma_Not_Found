@@ -8,6 +8,7 @@ Cada colaborador mantém sua própria pasta com soluções, links ou arquivos re
 | Gabriel Henrique Santos Moura | [gabriel-henrique-santos-moura](gabriel-henrique-santos-moura) |
 | Ian Luis | [ian-luis](ian-luis) |
 | Jeferson Pereira Oliveira | [jeferson-pereira-oliveira](jeferson-pereira-oliveira) |
+| Kauane Barbosa | [kauane-barbosa](kauane-barbosa)|
 | Luan Mascarenhas | [luan-mascarenhas](luan-mascarenhas) |
 | Mateus Farias | [mateus-farias](mateus-farias) |
 | Miguel Bispo Viana | [miguel-bispo-viana](miguel-bispo-viana) |

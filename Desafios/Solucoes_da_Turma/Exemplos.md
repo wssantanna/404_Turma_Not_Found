@@ -1,1 +1,0 @@
-<!-- Aqui nõs podemos ir criando documentos (acredito que opcionalmente) com as soluções que foromos criando para os desafios, então podemos padronizar os nomes dos documentos para ficar mais fácil de saber qual desafio foi resolvido como "desafio_1_Kauane", pode ser melhorado o nome mais pra frente
