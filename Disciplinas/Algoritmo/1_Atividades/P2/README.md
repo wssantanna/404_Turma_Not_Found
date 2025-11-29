@@ -6,21 +6,21 @@ Calcular a média de números positivos
 
 ## Critérios de aceite
 
-1. O sistema deve solicitar que o usuário informe um ou mais números inteiros positivos, separados por vírgula ou inseridos um por vez.
-2. O sistema deve desconsiderar qualquer número negativo informado.
-3. O sistema deve validar entradas inválidas, como:
-- letras ("texto")
-- símbolos que não são números
-- valores não inteiros, se estiver seguindo somente inteiros
-4. Caso ao menos um número positivo tenha sido informado, o sistema deve:
-- somar apenas os valores positivos
-- contar quantos valores positivos foram digitados
-- calcular a média com a fórmula: `MÉDIA = SOMA DOS POSITIVOS / QUANTIDADE DE POSITIVOS`
-5. O sistema deve exibir a média no formato:
-- A média dos números positivos é: X
-6. Caso nenhum número positivo tenha sido inserido, o sistema deve exibir:
-- Nenhum número positivo foi informado
-7. O sistema deve permitir encerramento quando o usuário digitar 0 como valor final da sequência.
+1. O sistema deve permitir a entrada de múltiplos valores numéricos, podendo ser positivos, negativos ou decimais, encerrando a coleta quando o usuário informar o valor 0.
+2. A média deve ser calculada considerando apenas os números positivos, ignorando qualquer número negativo informado pelo usuário.
+3. Caso seja informado apenas um número positivo antes do zero, o sistema deve calcular a média com base nesse único valor.
+4. Se nenhum número positivo for informado, o sistema deve exibir a mensagem:
+- "Nenhum número positivo foi informado"
+5. O sistema deve rejeitar valores inválidos, como texto ou caracteres não numéricos, exibindo a mensagem:
+- "Entrada inválida"
+6. O sistema deve aceitar números decimais positivos como válidos, calculando a média corretamente.
+7. Ao receber o valor 0 como primeira entrada, o sistema deve encerrar imediatamente e exibir:
+- "Nenhum número positivo foi informado"
+8. Para combinações de positivos, negativos e zero, o sistema deve:
+- Somar apenas os valores positivos
+- Ignorar negativos
+- Cálculo da média = soma dos positivos ÷ quantidade de positivos
+9. A saída deve apresentar somente o valor numérico final da média, sem textos adicionais, conforme a tabela de casos de uso.
 
 ## Casos de teste
 
