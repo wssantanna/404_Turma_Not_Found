@@ -42,6 +42,7 @@
 | Erick Lima | [@ericklimasdev](https://github.com/ericklimasdev) |
 | Darlene Santos | [@darlenejsantos](https://github.com/darlenejsantos) |
 | João Amorim | [@JoaoAmorim18](https://github.com/JoaoAmorim18) |
+| Deivson Siqueira | [@Deivsonss](https://github.com/Deivsonss) |
 </details>
 
 ## Tecnologias Utilizadas
