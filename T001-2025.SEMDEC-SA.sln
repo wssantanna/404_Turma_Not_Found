@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Disciplinas", "Disciplinas", "{C54BB2CC-D581-C0C4-D64C-112E49A2A922}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios_Resolvidos", "Desafios_Resolvidos", "{785EF0BA-C535-F5FA-0F84-A8A9AA01E42E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algoritmo", "Algoritmo", "{72879E5C-8C78-08A5-DAD5-CC2F9AC048D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Atividades", "1_Atividades", "{A8B1920C-5DB6-F868-CAFD-71745F516E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "Disciplinas\Algoritmo\1_Atividades\P4\api.csproj", "{82A14791-D378-E737-879A-3D01053AFA98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gabriel-henrique", "gabriel-henrique", "{CA8A1652-D096-D9A6-EFFE-A49244A95E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algoritimos", "Algoritimos", "{86F229F9-1CFF-1B34-091A-D1D9C0A7675B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "Desafios_Resolvidos\gabriel-henrique\Algoritimos\P4\api.csproj", "{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A14791-D378-E737-879A-3D01053AFA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A14791-D378-E737-879A-3D01053AFA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A14791-D378-E737-879A-3D01053AFA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A14791-D378-E737-879A-3D01053AFA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72879E5C-8C78-08A5-DAD5-CC2F9AC048D8} = {C54BB2CC-D581-C0C4-D64C-112E49A2A922}
+		{A8B1920C-5DB6-F868-CAFD-71745F516E35} = {72879E5C-8C78-08A5-DAD5-CC2F9AC048D8}
+		{82A14791-D378-E737-879A-3D01053AFA98} = {A8B1920C-5DB6-F868-CAFD-71745F516E35}
+		{CA8A1652-D096-D9A6-EFFE-A49244A95E1A} = {785EF0BA-C535-F5FA-0F84-A8A9AA01E42E}
+		{86F229F9-1CFF-1B34-091A-D1D9C0A7675B} = {CA8A1652-D096-D9A6-EFFE-A49244A95E1A}
+		{2C0AC581-4B6A-E276-DBC4-8C2B7C65B4F2} = {86F229F9-1CFF-1B34-091A-D1D9C0A7675B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1C81FB-B36A-4670-B352-13BB2E586E52}
+	EndGlobalSection
+EndGlobal
